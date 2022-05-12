@@ -1,8 +1,5 @@
 # Anthony Douglas Jr.
-- 👀 I’m interested in learning different programming languages.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on creative and helpful projects.
-- 📫 How to reach me, try my twitter @_LowKeyAD
+I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy learning languags and frameworks.
 
 ## Skills and Experience 
 - React
