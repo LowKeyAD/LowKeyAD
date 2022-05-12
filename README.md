@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on creative and helpful projects.
 - 📫 How to reach me, try my twitter @_LowKeyAD
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD)]
 
 ![Profile views](https://gpvc.arturio.dev/LowKeyAD)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD)]
+
 
 <!---
 LowKeyAD/LowKeyAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
