@@ -7,11 +7,10 @@ I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy lear
 - MongoDB
 - HTML, CSS, & JS
 
-#61DAFB
+<img src="https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight"/>
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD&layout=compact"/>
 
-![Profile views](https://gpvc.arturio.dev/LowKeyAD)
 
 
 
