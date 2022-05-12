@@ -1,4 +1,5 @@
 # Anthony Douglas Jr.
+ Hello,
 I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy learning languags and frameworks.
 
 ## Skills and Experience 
