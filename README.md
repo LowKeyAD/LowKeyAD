@@ -11,8 +11,7 @@ I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy lear
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight"/>
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD&layout=compact"/>
+<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD&layout=compact"/>
 
 
 
