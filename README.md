@@ -2,7 +2,7 @@
 
 # Anthony Douglas Jr.
  Hello,
-I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy learning languages and frameworks.
+I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy learning languages and frameworks. When I'm not coding I also enjoy trading forex.
 
 ## Skills and Experience 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
