@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LowKeyAD/LowKeyAD/master/LowKeyAD Banner.png" alt="banner that says LowKeyAD>
+<img src="https://raw.githubusercontent.com/LowKeyAD/LowKeyAD/master/LowKeyAD Banner.png">
 
 # Anthony Douglas Jr.
  Hello,
