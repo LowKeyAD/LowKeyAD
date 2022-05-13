@@ -12,6 +12,8 @@ I'm Anthony from Washington, DC and I'm a Software Engineer. I really enjoy lear
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Featured Projects
+
 ## Data & Analytics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD&layout=compact"/>
