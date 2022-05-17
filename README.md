@@ -20,6 +20,8 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LowKeyAD)](https://git.io/streak-stats)
 
+## Connect
+
 
 <!---
 LowKeyAD/LowKeyAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
