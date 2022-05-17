@@ -20,7 +20,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LowKeyAD)](https://git.io/streak-stats)
 
-## Connect
+
 
 
 <!---
