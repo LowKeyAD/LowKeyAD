@@ -13,7 +13,7 @@
   <a href="https://angel.co/u/anthony-douglas-jr" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://docs.google.com/document/d/1bFKHYo2RTATUeU6ccBSwDuYOKKThtIbv/edit?usp=sharing&ouid=100249314591786317324&rtpof=true&sd=true" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
