@@ -32,6 +32,84 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
 
 ## Featured Projects
 
+<h1 align="left">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Pierre Francis Photography</h3>
+        <br />
+        <a target="_blank" href="https://www.anthonydouglasjr.com/portfolio/pierrephotography/">
+            <img src="images/Pierre Francis Photography GIF.mp4" width="100%" alt="Pierre Francis Photography"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://www.anthonydouglasjr.com/portfolio/pierrephotography/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS & JavaScript</strong> - Welcome to Pierre Francis Photography. This is a portfolio site showcasing Pierre's work and his other provided services.
+    <td width="50%" valign="top">
+      <h3 align="center">Unique Barbershop</h3>
+        <br />
+      <a target="_blank" href="https://www.anthonydouglasjr.com/portfolio/master%20barber/">
+            <img src="images/Unique Barbershop GIF.mp4" width="100%"  alt="Unique Barbershop"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://www.anthonydouglasjr.com/portfolio/master%20barber/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS & JavaScript</strong> - This is a barbershop website which provides a brief summary about the shop along with a biography for every master barber working here.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Overnight Bartender</h3>
+      <br />
+        <a target="_blank" href="https://overnightbartender.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Overnight Bartender"/>
+        </a>
+      <br />
+        <p align="center">
+          <a href="https://github.com/LowKeyAD/Overnight-Bartender" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://overnightbartender.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - This web application allows the user to enter a drink and the search results will provide not only a picture of the drink but a recipe as well.
+    <td width="50%" valign="top">
+      <h3 align="center">Eastern Thai Palace</h3>
+        <br />
+        <a href="https://www.anthonydouglasjr.com/portfolio/eastern%20thai/" target="_blank">
+          <img src="images/gif4.gif" width="100%" alt="Eastern Thai Palace"/>
+        </a>
+        <br />
+        <p align="center">
+           <a href="" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://www.anthonydouglasjr.com/portfolio/eastern%20thai/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, JavaScript</strong> - This restaurant website provides information about the restaurant which includes an about us, location, & contact information.</p>
+    </td>
+  </tr>
+</table>
+
 ## Data & Analytics
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LowKeyAD&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowKeyAD&layout=compact"/>
