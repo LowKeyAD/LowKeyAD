@@ -39,7 +39,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Pierre Francis Photography</h3>
         <br />
         <a target="_blank" href="https://www.anthonydouglasjr.com/portfolio/pierrephotography/">
-            <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Pierre%20Francis%20Photography%20GIF.gif" width="100%" alt="Pierre Francis Photography"/>
+            <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Pierre%20Francis%20Photography.gif" width="100%" alt="Pierre Francis Photography"/>
         </a>
         <br />
         <p align="center">
@@ -56,7 +56,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Unique Barbershop</h3>
         <br />
       <a target="_blank" href="https://www.anthonydouglasjr.com/portfolio/master%20barber/">
-            <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Unique%20Barbershop%20GIF.gif" width="100%"  alt="Unique Barbershop"/>
+            <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Unique%20Barbershop.gif" width="100%"  alt="Unique Barbershop"/>
         </a>
         <br />
         <p align="center">
@@ -77,7 +77,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Overnight Bartender</h3>
       <br />
         <a target="_blank" href="https://overnightbartender.netlify.app/">
-          <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Overnight%20Bartender%20GIF.gif" width="100%" alt="Overnight Bartender"/>
+          <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Overnight%20Bartender.gif" width="100%" alt="Overnight Bartender"/>
         </a>
       <br />
         <p align="center">
@@ -93,7 +93,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Eastern Thai Palace</h3>
         <br />
         <a href="https://www.anthonydouglasjr.com/portfolio/eastern%20thai/" target="_blank">
-          <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Eastern%20Thai%20Palace%20GIF.gif" width="100%" alt="Eastern Thai Palace"/>
+          <img src="https://github.com/LowKeyAD/LowKeyAD/blob/main/Images/Eastern%20Thai%20Palace.gif" width="100%" alt="Eastern Thai Palace"/>
         </a>
         <br />
         <p align="center">
