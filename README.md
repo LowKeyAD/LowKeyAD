@@ -39,7 +39,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Pierre Francis Photography</h3>
         <br />
         <a target="_blank" href="https://www.anthonydouglasjr.com/portfolio/pierrephotography/">
-            <img src="images/Pierre Francis Photography GIF.mp4" width="100%" alt="Pierre Francis Photography"/>
+            <img src="images/Pierre Francis Photography GIF.gif" width="100%" alt="Pierre Francis Photography"/>
         </a>
         <br />
         <p align="center">
@@ -56,7 +56,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Unique Barbershop</h3>
         <br />
       <a target="_blank" href="https://www.anthonydouglasjr.com/portfolio/master%20barber/">
-            <img src="images/Unique Barbershop GIF.mp4" width="100%"  alt="Unique Barbershop"/>
+            <img src="images/Unique Barbershop GIF.gif" width="100%"  alt="Unique Barbershop"/>
         </a>
         <br />
         <p align="center">
@@ -77,7 +77,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Overnight Bartender</h3>
       <br />
         <a target="_blank" href="https://overnightbartender.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Overnight Bartender"/>
+          <img src="images/Overnight Bartender GIF.gif" width="100%" alt="Overnight Bartender"/>
         </a>
       <br />
         <p align="center">
@@ -93,7 +93,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
       <h3 align="center">Eastern Thai Palace</h3>
         <br />
         <a href="https://www.anthonydouglasjr.com/portfolio/eastern%20thai/" target="_blank">
-          <img src="images/gif4.gif" width="100%" alt="Eastern Thai Palace"/>
+          <img src="images/Eastern Thai Palace GIF.gif" width="100%" alt="Eastern Thai Palace"/>
         </a>
         <br />
         <p align="center">
