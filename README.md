@@ -31,7 +31,7 @@ I'm Anthony from Washington, DC and I'm a Full-Stack Software Engineer. I really
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<h1 align="left">Projects</h1>
+<h1 align="left">Featured Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
